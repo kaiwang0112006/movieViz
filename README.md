@@ -1,3 +1,3 @@
-#### ËµÃ÷
+ï»¿#### è¯´æ˜
 
-¶¹°êµçÓ°ÆÀ·ÖÓëÆ±·¿Êı¾İ¿ÉÊÓ»¯£¬¼û´Ë[Á´½Ó](https://kaiwang0112006.github.io/movieViz/src/movieViz.html)¡£¶¯Ì¬ÍøÒ³¿ÉÒÔ·ÃÎÊ[link](http://tasteofdata.com/movie_visualization/douban_box)
+è±†ç“£ç”µå½±è¯„åˆ†ä¸ç¥¨æˆ¿æ•°æ®å¯è§†åŒ–ï¼Œè§æ­¤[é“¾æ¥](https://kaiwang0112006.github.io/movieViz/src/movieViz.html)ã€‚åŠ¨æ€ç½‘é¡µå¯ä»¥è®¿é—®[link](http://tasteofdata.com/movie_visualization/douban_box)
