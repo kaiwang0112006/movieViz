@@ -6,8 +6,10 @@
 		    //myChart.setBounds(75, 30, 480, 330)
 
 		    var x = myChart.addMeasureAxis("x", "box");
+		    x.title = "Box (万元)";
 		    x.fontSize = "auto";
 		    var y = myChart.addMeasureAxis("y", "rate");
+		    y.title = "Douban Rate";
 		    y.fontSize = "auto";
 		    myChart.addMeasureAxis("z", "size");
 
