@@ -1,0 +1,27 @@
+﻿<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>豆瓣评分 VS. 票房，谁才是赢家？（导演）</title>
+</head>
+
+<body>
+<div class="title" style="text-align:center">movie show<hr></div>
+<script src="js/d3.v4.min.js"></script>
+<script src="js/dimple2.js"></script>
+
+<h2 style="text-align:center;color: black;font-family:Arial;font-weight:bold;font-size:18px"> <br>Movie Visualization</h2>
+<div style="text-align:center;color: black;font-family:Arial;font-weight:bold;padding-top:20px">
+<span style="font-size:28px;">豆瓣评分 VS. 票房，谁才是赢家？</span>
+<div>
+    <div id="chartContainer"></div>
+    <div>
+    	<p style="font-size:15px;font-famliy:STSong">数据基于<a href="http://www.cbooo.cn/">艺恩票房数据</a>和<a href="https://movie.douban.com/">豆瓣电影评分</a>，box为 电影总票房（部分电影仍在上映中，取当前总票房），rate为豆瓣电影评分，圆半径大小为上映年份，上映越早，半径越小。</p>
+    	<p style="font-size:15px;font-famliy:STSong">图中取2009年-2017年票房最高的十部电影和豆瓣评分最高的十部电影, 更多电影年份选择，可以点击 <a href="http://tasteofdata.com/movie_visualization/douban_box">链接</a></p>
+    </div>
+</div>
+<script type="text/javascript" src="js/movievis.js" onload="moviedraw();"></script>
+
+
+
+
+</div></body></html>
